@@ -1,0 +1,22 @@
+:root {
+    --vp-c-brand: #ff8404;
+    --vp-c-brand-light: #F70404;
+    --vp-c-brand-lighter: var(--vp-c-red-lighter);
+    --vp-c-brand-dark: #FC4F00; /*var(--vp-c-red-dark);*/
+    --vp-c-brand-darker: var(--vp-c-red-darker);  
+}
+.tagline {
+    font-size: 14pt !important;
+    font-style: italic;
+    font-weight: 400 !important;
+}
+
+.image-src {
+    border-radius: 10px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {
+    border-radius: 10px;
+    border: solid 1px #ddd;
+}
