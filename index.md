@@ -1,6 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+title: Rental Mobil Wiratama
 
 hero:
   name: "Wiratama "
@@ -8,18 +9,18 @@ hero:
   tagline: Dapatkan sewa mobil dengan layanan yang mudah dan efisien
   actions:
     - theme: brand
-      text: WhatsApp
+      text: Info Lanjut
       link: https://wa.me/6282137339589?text=Mohon%20info%20
-    - theme: alt
-      text: Armada
-      link: /armada
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Inova Reborn
+    details: Kapasitas 7 penumpang, nyaman, harga ekonomis
+    link: https://wa.me/6282137339589?text=Inova%20Reborn%20
+  - title: Venturer
+    details: Kemewahan dan kenyamanan dengan kapatias 7 penumpang
+    link: https://wa.me/6282137339589?text=Inova%20Venturer%20
+  - title: Pajero Sport
+    details: 
+    link: https://wa.me/6282137339589?text=
 ---
 
