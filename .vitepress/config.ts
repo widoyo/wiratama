@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Wiratama Rental Mobil",
-  description: "Dapatkan sewa mobil dengan layanan yang mudah dan efisien",
+  description: "Dapatkan sewa mobil dengan layanan yang bersahabat di Solo",
   cleanUrls: true,
   head: [
     [
