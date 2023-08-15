@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Wiratama Rental Mobil",
   description: "Dapatkan sewa mobil dengan layanan yang mudah dan efisien",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

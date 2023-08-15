@@ -10,17 +10,23 @@ hero:
   actions:
     - theme: brand
       text: Info Lanjut
-      link: https://wa.me/6282137339589?text=Mohon%20info%20
+      link: https://wa.me/6282137339589?text=ID%20:Mohon%20info%20
+    - theme: alt
+      text: Tentang Wiratama
+      link: /about
 
 features:
   - title: Inova Reborn
-    details: Kapasitas 7 penumpang, nyaman, harga ekonomis
-    link: https://wa.me/6282137339589?text=Inova%20Reborn%20
+    icon: 🚙
+    details: MPV 7 Seaters, nyaman, harga ekonomis
+    link: https://wa.me/6282137339589?text=ID%20:Inova%20Reborn%20
   - title: Venturer
-    details: Kemewahan dan kenyamanan dengan kapatias 7 penumpang
-    link: https://wa.me/6282137339589?text=Inova%20Venturer%20
+    icon: 🚗
+    details: Kemewahan dan kenyamanan 7 Seaters
+    link: https://wa.me/6282137339589?text=ID%20:Inova%20Venturer%20
   - title: Pajero Sport
+    icon: 🚘
     details: 
-    link: https://wa.me/6282137339589?text=
+    link: https://wa.me/6282137339589?text=ID%20:Pajero%20Sport%20
 ---
 
