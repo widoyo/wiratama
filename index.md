@@ -7,6 +7,9 @@ hero:
   name: "Wiratama "
   text: "Rental Mobil di Solo"
   tagline: Dapatkan sewa mobil dengan layanan yang bersahabat di Solo
+  image:
+    src: ./reborn.jpg
+    alt: Reborn
   actions:
     - theme: brand
       text: Info Lanjut
