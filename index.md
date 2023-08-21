@@ -5,10 +5,10 @@ title: Rental Mobil Solo
 
 hero:
   name: "Wiratama "
-  text: "Rental Mobil di Solo"
+  text: "Rental Mobil Premium murah di Solo, Yogya, Semarang"
   tagline: Dapatkan sewa mobil dengan layanan yang bersahabat di Solo
   image:
-    src: ./reborn.jpg
+    src: ./venturer.jpg
     alt: Reborn
   actions:
     - theme: brand
