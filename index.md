@@ -1,7 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: Rental Mobil Solo
+title: Rental Mobil Premium Murah
 
 hero:
   name: "Wiratama "
