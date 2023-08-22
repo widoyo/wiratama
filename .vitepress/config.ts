@@ -30,6 +30,10 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'WhatsApp', link: 'https://wa.me/6282137339589?text=id:Mohon%20info%20Sewa%20Mobil%20' }
     ],
+    footer: {
+      message: '',
+      copyright: 'Hak Cipta &copy; 2023 CV. Nawasena Wiratama'
+    }
 
   },
   transformHtml: (_, id, { pageData }) => {
