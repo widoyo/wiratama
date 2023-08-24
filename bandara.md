@@ -1,7 +1,5 @@
----
-layout: doc
-outline: 1
----
+# Bandara
+
 
 ## Yogyakarta International Airport
 

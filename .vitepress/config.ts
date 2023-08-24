@@ -36,6 +36,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Mobil', items: [
+        { text: 'Avanza CVT', link: '/mobil/avanza' },
+        { text: 'Inova Reborn', link: '/mobil/inova#inova-reborn' },
+        { text: 'Inova Venturer', link: '/mobil/inova#inova-venturer' },
+        { text: 'Pajero Sport', link: '/mobil/pajero' },
+        { text: 'Hi-Ace Commuter', link: '/mobil/hiace' },
+        { text: 'Hi-Ace Premio', link: '/mobil/hiace' },
+        { text: 'Alphard', link: '/mobil/alphard'}
+      ]},
       { text: 'WhatsApp', link: 'https://wa.me/6282137339589?text=id:Mohon%20info%20Sewa%20Mobil%20' }
     ],
     footer: {

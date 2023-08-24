@@ -5,11 +5,11 @@ title: Rental Mobil Premium Murah
 
 hero:
   name: "Wiratama "
-  text: "Rental Mobil Premium murah di Solo, Yogya, Semarang (+sopir)"
+  text: "Rental Mobil Premium murah di Solo, Yogya, Semarang (+supir)"
   tagline: Dapatkan sewa mobil dengan layanan yang bersahabat
   image:
-    src: ./venturer.jpg
-    alt: Toyota Inova Venturer (+Sopir)
+    src: ./wiratama_logo.jpeg
+    alt: Toyota Inova Venturer (+Supir)
   actions:
     - theme: brand
       text: Info Lanjut
@@ -22,19 +22,14 @@ hero:
       link: /about
 
 features:
-  - title: Inova Reborn (+Sopir)
-    icon: 🚙
-    details: MPV 7 Seaters, nyaman, harga ekonomis
+  - title: Inova Reborn (+Supir)
+    details: <img src="/reborn.jpg">
     link: https://wa.me/6282137339589?text=.id:Inova%20Reborn%2bSopir%20
-  - title: Venturer (+Sopir)
-    icon: 🚗
-    details: Kemewahan dan kenyamanan 7 Seaters
+  - title: Venturer (+Supir)
+    details: <img src="/venturer.jpg"><br>Tempat duduk <b>Captain-Seat</b>
     link: https://wa.me/6282137339589?text=.id:Inova%20Venturer%2bSopir%20
-  - title: Pajero Sport (+Sopir)
-    icon: 🚘
-    details: 
+  - title: Pajero Sport (+Supir)
+    details: <img src="/pajero.jpeg">
     link: https://wa.me/6282137339589?text=.id:Pajero%20Sport%20
-footer:
 
 ---
-
