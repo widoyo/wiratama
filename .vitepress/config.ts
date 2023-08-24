@@ -38,7 +38,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Mobil', items: [
-        { text: 'Avanza CVT', link: '/mobil/avanza' },
+        { text: 'All New Avanza', link: '/mobil/avanza' },
         { text: 'Inova Reborn', link: '/mobil/inova#inova-reborn' },
         { text: 'Inova Venturer', link: '/mobil/inova#inova-venturer' },
         { text: 'Pajero Sport', link: '/mobil/pajero' },

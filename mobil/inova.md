@@ -14,5 +14,5 @@ _*) Gambar hanya untuk ilustrasi_
 
 ### Tempat duduk Inova Venturer
 
-![Inova](/venturer_seat.jpg)
+![Inova](/venturer_seat.webp)
 _*) Gambar hanya untuk ilustrasi_

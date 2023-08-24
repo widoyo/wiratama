@@ -29,13 +29,13 @@ features:
   - title: Kishore Jamtani ⭐⭐⭐⭐⭐
     details: <i>Mobil bagus , AC dingin , Sopir Ramah dan baik, perjalanan mulus, ontime, tidak ada Hamilton.Kalo ke Solo lagi pasti pake Rental.Mobil Wiratama</i>
   - title: Inova Reborn (+Supir)
-    details: <img src="/reborn.jpg">
+    details: <img src="/reborn.webp">
     link: https://wa.me/6282137339589?text=.id:Inova%20Reborn%2bSopir%20
   - title: Venturer (+Supir)
-    details: <img src="/venturer.jpg"><br>Tempat duduk <b>Captain-Seat</b>
+    details: <img src="/venturer.webp"><br>Tempat duduk <b>Captain-Seat</b>
     link: https://wa.me/6282137339589?text=.id:Inova%20Venturer%2bSopir%20
   - title: Pajero Sport (+Supir)
-    details: <img src="/pajero.jpeg">
+    details: <img src="/pajero_sport.webp">
     link: https://wa.me/6282137339589?text=.id:Pajero%20Sport%20
 
 ---
