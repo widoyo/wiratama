@@ -1,13 +1,17 @@
-# Toyota Inova
+# Toyota All New Inova
 
-Mesin Diesel, dengan kapasitas 2.400CC.
+Kendaraan keluarga yang nyaman, lega dengan 7 penumpang.
 
-## Inova Reborn
+## All New Inova (Reborn)
+
+<a class="mybutton" href="https://wa.me/6282137339589?text=id:Reborn%2dSupir%20">Pesan Sekarang</a>
 
 ![Inova](/inova.webp)
 _*) Gambar hanya untuk ilustrasi_
 
-## Inova Venturer
+## All New Inova Venturer
+
+<a class="mybutton" href="https://wa.me/6282137339589?text=id:Venturer%2dSupir%20">Pesan Sekarang</a>
 
 ![Inova](/inova_venturer.jpg)
 _*) Gambar hanya untuk ilustrasi_

@@ -2,6 +2,8 @@
 
 ## Hi-Ace Commuter
 
+<a class="mybutton" href="https://wa.me/6282137339589?text=id:HiAce%20Commuter%2dSupir%20">Pesan Sekarang</a>
+
 ![HiAce Commuter](/hiace_commuter.png)
 _*) Gambar hanya untuk ilustrasi_
 
@@ -11,6 +13,8 @@ _*) Gambar hanya untuk ilustrasi_
 _*) Gambar hanya untuk ilustrasi_
 
 ## Hi-Ace Premio
+
+<a class="mybutton" href="https://wa.me/6282137339589?text=id:HiAce%20Premio%2dSupir%20">Pesan Sekarang</a>
 
 ![HiAce Premio](/hiace_premio.png)
 _*) Gambar hanya untuk ilustrasi_

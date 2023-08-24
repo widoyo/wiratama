@@ -10,7 +10,19 @@
     font-style: italic;
     font-weight: 400 !important;
 }
-
+.mybutton {
+    background-color: var(--vp-c-brand);
+    color: white !important;
+    font-size: 12pt !important;
+    font-weight: bold;
+    border: solid 1px #ccc;
+    padding: 8px 20px !important;
+    border-radius: 20px;
+}
+.mybutton:hover {
+    background-color: var(--vp-c-brand-light);
+    text-decoration: none !important;
+}  
 .image-src {
     border-radius: 10px !important;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);

@@ -1,6 +1,12 @@
+
+<style module>
+</style>
+
 # Toyota All New Avanza (CVT)
 
-Mesin penggerak roda depan (Front Wheel Drive), kapasitas mesin 1.500CC.
+Mobil keluarga yang ekonomis, kapasitas 6-7 penumpang. 
+
+<a class="mybutton" href="https://wa.me/6282137339589?text=id:Avanza%2bSupir%20">Pesan Sekarang</a>
 
 ## Eksterior
 

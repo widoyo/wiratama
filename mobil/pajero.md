@@ -1,5 +1,7 @@
 # Mitsubishi Pajero Sport
 
+<a class="mybutton" href="https://wa.me/6282137339589?text=id:Pajero%2bSupir%20">Pesan Sekarang</a>
+
 ## Eksterior
 
 ![Pajero Sport](/pajero.webp)
