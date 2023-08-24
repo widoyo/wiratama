@@ -11,6 +11,7 @@ export default defineConfig({
   description: "Dapatkan sewa mobil dengan layanan yang bersahabat di Solo",
   cleanUrls: true,
   head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     [
       'script',
       { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-EFMJSJ2WXX' }
