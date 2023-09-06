@@ -1,7 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: Terima kasih, Rental Mobil Wiratama
+title: Rental Mobil Prekium Murah
 
 hero:
   name: "Terima Kasih"
