@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, HeadConfig } from 'vitepress'
 import { SitemapStream } from 'sitemap';
 import { createWriteStream } from 'fs'
 import { resolve } from 'path'
@@ -8,7 +8,7 @@ const links = []
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Rental Mobil Wiratama",
-  description: "Dapatkan sewa mobil dengan layanan yang bersahabat di Solo",
+  description: "Sewa mobil premium harga murah dengan layanan yang bersahabat di Solo",
   cleanUrls: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -53,6 +53,12 @@ export default defineConfig({
       copyright: 'Hak Cipta &copy; 2023 CV. Nawasena Wiratama'
     }
 
+  },
+  transformHead: ({ pageData }) => {
+    const head: HeadConfig[] = []
+    head.push(['meta', {property: 'og:title', content: pageData.frontmatter.title}])
+    head.push(['meta', {property: 'og:description', content: pageData.frontmatter.description}])
+    return head
   },
   transformHtml: (_, id, { pageData }) => {
     if (!/[\\/]404\.html$/.test(id))
